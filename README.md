@@ -40,35 +40,6 @@ Passionate about creating clean user experiences, optimizing performance, and si
 
 ---
 
-# ✨ Featured Projects
-
-## 🔹 Kikoolz Portfolio
-
-A modern full-stack developer portfolio built with:
-
-- Next.js 15 App Router
-- TypeScript
-- Prisma ORM
-- PostgreSQL
-- UploadThing
-- Redis Analytics
-- MDX Blog System
-- Dynamic Dashboard CMS
-
-### Features
-
-- Dynamic blog engine
-- Real-time analytics
-- Admin dashboard
-- Newsletter system
-- Markdown rendering
-- Image uploads
-- SEO optimization
-- Responsive UI
-- Dark mode support
-
----
-
 # 📝 Writing & Technical Content
 
 I enjoy writing about:
@@ -90,7 +61,7 @@ Read articles on:
 
 - Portfolio: https://kennethkikoole.com
 - Email: kenlubs45@gmail.com
-- LinkedIn: https://linkedin.com/in/kikoole-kenneth-383434148
+- LinkedIn: https://linkedin.com/in/kennethkikoole
 
 ---
 
