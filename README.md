@@ -3,7 +3,7 @@
 <img 
   src="https://raw.githubusercontent.com/kikoolz/kikoolz-portfolio/main/public/Avatar-Pic.png" 
   alt="Kenneth Kikoole" 
-  width="120"
+  width="100"
 />
 
 <img 
