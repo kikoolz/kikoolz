@@ -44,7 +44,7 @@ Passionate about creating clean user experiences, optimizing performance, and si
 
 ---
 
-# 📝 Writing & Technical Content
+# Writing & Technical Content
 
 I enjoy writing about:
 
