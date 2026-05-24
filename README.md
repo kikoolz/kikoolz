@@ -3,7 +3,7 @@
 <img 
   src="https://raw.githubusercontent.com/kikoolz/kikoolz-portfolio/main/public/ken-circle.png" 
   alt="Kenneth Kikoole" 
-  width="180"
+  width="100"
 />
 
 # Kenneth Kikoole
