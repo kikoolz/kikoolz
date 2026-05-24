@@ -12,7 +12,7 @@
   width="500"
 />
 
-# Software Engineer ✯ Technical Writer
+# Software Engineer ✴ Technical Writer
 
 I build scalable, performant, and user-focused web applications with modern technologies like React, Next.js, TypeScript, and Node.js.
 
