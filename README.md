@@ -44,31 +44,6 @@ Passionate about creating clean user experiences, optimizing performance, and si
 
 ---
 
-# Writing & Technical Content
-
-I enjoy writing about:
-
-- Frontend architecture
-- TypeScript patterns
-- Web performance
-- Authentication systems
-- Scalable React applications
-- Full-stack engineering
-
-Read articles on:
-- [Medium](https://medium.com/@kenlubs45)
-- [Portfolio Blog](https://kennethkikoole.com/blog)
-
----
-
-# 📫 Contact
-
-- Portfolio: https://kennethkikoole.com
-- Email: kenlubs45@gmail.com
-- LinkedIn: https://linkedin.com/in/kennethkikoole
-
----
-
 <div align="center">
 
 ### ⚡ Building products, solving problems, and sharing knowledge.
