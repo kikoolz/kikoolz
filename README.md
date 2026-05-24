@@ -1,9 +1,9 @@
 <div align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/kikoolz/kikoolz-portfolio/main/public/ken-circle.png" 
+  src="https://raw.githubusercontent.com/kikoolz/kikoolz-portfolio/main/public/Avatar-Pic.png" 
   alt="Kenneth Kikoole" 
-  width="100"
+  width="120"
 />
 
 # Kenneth Kikoole
