@@ -6,7 +6,43 @@
   width="120"
 />
 
-# Kenneth Kikoole
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="silver" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#d9d9d9"/>
+      <stop offset="100%" stop-color="#8c8c8c"/>
+    </linearGradient>
+  </defs>
+
+  <text
+    x="50%"
+    y="55%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="Impact, sans-serif"
+    font-size="110"
+    font-style="italic"
+    letter-spacing="4"
+    fill="url(#silver)"
+    stroke="#ffffff"
+    stroke-width="3"
+    paint-order="stroke fill"
+    filter="url(#glow)"
+  >
+    KENNETH KIKOOLE
+  </text>
+
+</svg>
 
 ### Software Engineer • Technical Writer
 
@@ -24,7 +60,7 @@ Passionate about creating clean user experiences, optimizing performance, and si
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -70,3 +106,4 @@ Read articles on:
 ### ⚡ Building products, solving problems, and sharing knowledge.
 
 </div>
+
