@@ -8,7 +8,7 @@
 
 # Kenneth Kikoole
 
-### Software Engineer • Full-Stack Engineer • Technical Writer
+### Software Engineer • Technical Writer
 
 I build scalable, performant, and user-focused web applications with modern technologies like React, Next.js, TypeScript, and Node.js.
 
