@@ -6,7 +6,11 @@
   width="120"
 />
 
-# Kenneth Kikoole
+<img 
+  src="https://raw.githubusercontent.com/kikoolz/kikoolz-portfolio/main/public/kenneth-banner.svg"
+  alt="Kenneth Kikoole"
+  width="700"
+/>
 
 ### Software Engineer • Technical Writer
 
